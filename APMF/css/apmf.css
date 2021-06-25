@@ -1,0 +1,488 @@
+.icon{
+
+height: 99px;
+width: 209px;
+left: 16px;
+top: 13px;
+border-radius: 0px;
+
+}
+
+.btn_rechercher{
+
+    
+    background: #43C7F4;
+    border-radius: 27.5px;
+    font-size: 18px;
+    color: #FFFFFF;
+    Width: 191px;
+    font-weight: bold;
+    margin-bottom: 2em;
+    margin-right: 90%;
+
+
+}
+
+#all_onglets{
+
+
+    margin-left: 5%;
+}
+
+#onglets{
+
+    color: #90268E;
+    font-size: 13px;
+    font-weight: bold;
+    
+}
+
+@media screen and (min-width: 1500px) {
+    #onglet {
+      
+      padding-right: 2em;
+      padding-left: 2em;
+    }
+  }
+
+
+
+
+    
+
+
+#icon_twitter{
+
+
+
+
+
+}
+
+#icon_facebook{
+
+
+
+
+}
+
+.img_plage{
+
+
+
+height: 40%;
+padding-top: 10% ;
+padding-bottom: 30%;
+background-size: cover ;
+background-repeat: no-repeat;
+background-image: url("../img/fond_sable.png") ;
+
+}
+
+.rectangle{
+
+
+top: 30%;
+margin-left: 25%;
+width: 50%;
+background: #90268E;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 18px;  
+
+
+}
+
+#text_rectangle{
+
+
+
+font-size: 30px;
+color: #FFFFFF;
+
+
+}
+
+.rectangle_bas{
+
+
+    
+    background: #90268E;
+    margin-bottom: 1em;
+
+
+}
+
+#text_rectangle_bas{
+
+
+font-size: 24px;
+color: #FFFFFF;
+
+
+}
+
+.photo_association{
+
+
+
+position: absolute;
+width: 643px;
+height: 324px;
+left: 106px;
+top: 188px;
+
+
+
+    
+    }
+
+.photo_maladie_fabry{
+
+
+    
+position: absolute;
+width: 640px;
+height: 325px;
+left: 694px;
+top: 285px;
+
+    
+    }
+.photo_traitement{
+
+
+    
+position: absolute;
+width: 641px;
+height: 326px;
+left: 108px;
+top: 567px;
+
+
+    
+    }
+
+.photo_centre_ref{
+
+
+    
+position: absolute;
+width: 640px;
+height: 326px;
+left: 694px;
+top: 686px;
+
+
+
+
+    
+    }
+
+
+
+.rec_association{
+
+position: absolute;
+width: 374px;
+height: 86px;
+left: 241px;
+top: 308px;
+
+background: #43C7F4;
+}
+
+.rec_maladie{
+    position: absolute;
+    width: 374px;
+    height: 86px;
+    left: 826px;
+    top: 405px;
+    
+    background: rgba(67, 199, 244, 0.75);
+}
+
+.rec_traitement{
+
+    position: absolute;
+    width: 375px;
+    height: 85px;
+    left: 241px;
+    top: 684px;
+    
+    background: rgba(67, 199, 244, 0.75);
+}
+
+.rec_centre{
+    position: absolute;
+    width: 374px;
+    height: 87px;
+    left: 826px;
+    top: 805px;
+    
+    background: rgba(67, 199, 244, 0.75);
+}
+
+.rectangle_violet{
+
+
+    position: absolute;
+    width: 39px;
+    height: 171px;
+    left: 740px;
+    top: 188px;
+    background: #90268E;
+    
+    }
+
+.rectangle_violet2{
+
+
+position: absolute;
+width: 452px;
+height: 75px;
+left: 863px;
+top: 550px;
+
+background: #90268E;
+
+}
+
+.rectangle_violet3{
+
+
+position: absolute;
+width: 37px;
+height: 86px;
+left: 612px;
+top: 556px;
+
+background: #90268E;
+
+}
+
+.rectangle_violet4{
+
+
+position: absolute;
+width: 494px;
+height: 75px;
+left: 130px;
+top: 855px;
+
+background: #90268E;
+}
+
+.rectangle_violet5{
+
+
+position: absolute;
+width: 454px;
+height: 76px;
+left: 821px;
+top: 673px;
+
+background: #90268E;
+
+}
+
+
+
+.rectangle_bleu{
+
+
+position: absolute;
+width: 455px;
+height: 75px;
+left: 740px;
+top: 277px;
+
+background: #06ADEF;
+
+}
+
+
+.rectangle_bleu2{
+
+
+position: absolute;
+width: 453px;
+height: 75px;
+left: 116px;
+top: 551px;
+
+background: #06ADEF;
+
+}
+
+.rectangle_bleu3{
+
+
+position: absolute;
+width: 455px;
+height: 76px;
+left: 745px;
+top: 959px;
+
+background: #06ADEF;
+
+}
+
+.text_association{
+
+
+width: 295px;
+height: 21px;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 21px;
+text-align: center;
+display: inline-block;
+color: #FFFFFF;
+}
+
+#text_maladie{
+
+
+width: 229px;
+height: 34px;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 21px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+}
+
+
+#text_traitement{
+
+
+width: 229px;
+height: 19px;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 21px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+#text_centre{
+
+
+width: 229px;
+height: 19px;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 21px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.boite{
+
+
+    
+    padding: 1em;
+    background: #06ADEF;
+    border-radius: 20px;
+
+}
+
+
+.photo{
+
+    
+    width: 50%;
+    margin: 25%;
+    
+
+
+    
+    }
+
+.rond{
+
+   
+    width: 35%;
+    height: 40%;
+    margin-top: 5%;
+    margin-left: 30%;
+    margin-bottom: 10%;
+    border-radius: 50%;
+    background: #FFFFFF;
+
+}
+
+
+.formulaire{
+
+    
+    
+
+}
+
+.h2_formulaire{
+
+
+
+
+}
+
+.footer{
+
+
+width: 100%;
+
+
+}
+
+.box{
+
+    
+    
+    margin-bottom: 80em;
+    
+
+}
+
+
+.box_association{
+    
+
+    
+}
+
+
+.text_box{
+
+    text-align: center;
+    color: #FFFFFF;
+
+}
+
+.text_box1{
+
+    margin-bottom: 5%;
+    
+}
+
+.text_box2{
+
+    margin-bottom: 15%;
+
+}
+
+.btn{
+
+    margin-top: 2em;
+    margin-left: 13%;
+}
+
